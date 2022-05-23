@@ -16,7 +16,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ParthenopeDeepTeam/Fall-Detection-using-LSTM-Autoencoder">
-    <img src="Textures/logo_large.png" alt="Logo" width="400">
+    <img src="Textures/logo_large.png" alt="Logo" width="700">
   </a>
 
   <h3 align="center">Abstract</h3>
@@ -28,7 +28,7 @@
 <h5 align="center">Example of play:</h5>
 
 <p align="center">
-    <img src="media/playing_the_game.gif" width="600">
+    <img src="playing_the_game.gif">
     <br>
 </p>
 
