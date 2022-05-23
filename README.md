@@ -49,7 +49,6 @@
       </ul>
     </li>
     <li><a href="#contacts">Contacts</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -66,14 +65,14 @@ The goal of the game is to eliminate all targets in a set time interval with a c
 ### Libraries
 
 * [OpenGL/glew 1.12.0](https://www.nuget.org/packages/glew.v140/1.12.0)
-* [GLUT/freeglut 1.0.2]((https://www.nuget.org/packages/freeglut.3.0.0.v140/1.0.2))
+* [GLUT/freeglut 1.0.2](https://www.nuget.org/packages/freeglut.3.0.0.v140/1.0.2)
 * [irrKlang 1.6.0](https://www.ambiera.com/irrklang/)
 * [SOIL 1.16.0](https://github.com/littlstar/soil))
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Istructions for code and data are down below.
+Istructions for code and installation are down below.
 
 
 <!-- CODE STRUCTURE -->
@@ -89,19 +88,15 @@ src
 │   ──> contains the 3D model class that is extendes by Bullet, Target etc...
 ```
 
+<!-- Installation and usage -->
+### Installation and usage
+The project has been developed by using Visual Studio Code 2022, so we highly recommend this IDE in order to 
+
 <!-- CONTACT -->
 ## Contacts
 
 * Andrea: [LinkedIn][linkedin-andrea-url]
-* Vincenzo: [LinkedIn][linkedin-antonio-url]
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* [Thomas Gatt](https://ieeexplore.ieee.org/document/8868795)
-
-
+* Vincenzo: [LinkedIn][linkedin-vincenzo-url]
 
 
 
