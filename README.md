@@ -91,15 +91,13 @@ src
 
 <!-- Installation and usage -->
 ### Installation and usage
-The project has been developed by using Visual Studio Code 2022, so we highly recommend this IDE in order to 
+The project has been developed by using Visual Studio Code 2022, so we highly recommend this IDE in order to clone this repo and try to develop and improve this work. The VSC files are missing, so you need to create first a blank project and inputting the source code of this repo into it.
 
 <!-- CONTACT -->
 ## Contacts
 
 * Andrea: [LinkedIn][linkedin-andrea-url]
 * Vincenzo: [LinkedIn][linkedin-vincenzo-url]
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
