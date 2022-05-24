@@ -64,10 +64,10 @@ The goal of the game is to eliminate all targets in a set time interval with a c
 
 ### Libraries
 
-* [OpenGL/glew 1.12.0](https://www.nuget.org/packages/glew.v140/1.12.0)
-* [GLUT/freeglut 1.0.2](https://www.nuget.org/packages/freeglut.3.0.0.v140/1.0.2)
-* [irrKlang 1.6.0](https://www.ambiera.com/irrklang/)
-* [SOIL 1.16.0](https://github.com/littlstar/soil))
+* [OpenGL/glew 1.12.0](https://www.nuget.org/packages/glew.v140/1.12.0) - Graphics and related
+* [GLUT/freeglut 1.0.2](https://www.nuget.org/packages/freeglut.3.0.0.v140/1.0.2) - Window managing, interaction and callbacks setting
+* [irrKlang 1.6.0](https://www.ambiera.com/irrklang/) - Audio effects and musics
+* [SOIL 1.16.0](https://github.com/littlstar/soil) - Texture loading
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -86,6 +86,7 @@ src
 │   ──> contains the class for the texture loading
 ├── GenericModel.h
 │   ──> contains the 3D model class that is extendes by Bullet, Target etc...
+| ...
 ```
 
 <!-- Installation and usage -->
@@ -111,4 +112,4 @@ The project has been developed by using Visual Studio Code 2022, so we highly re
 [issues-url]: https://github.com/ParthenopeDeepTeam/Fall-Detection-using-LSTM-Autoencoder/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-andrea-url]: https://www.linkedin.com/in/andrea-lombardi/
-[linkedin-vincenzo-url]: (https://www.linkedin.com/in/vincenzo-silvio-0413321b8/)
+[linkedin-vincenzo-url]: https://www.linkedin.com/in/vincenzo-silvio-0413321b8/
